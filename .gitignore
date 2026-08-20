@@ -1,0 +1,6 @@
+# Snapshot blobs are GitHub Release assets, not git objects (100 MiB git cap).
+*.dat
+*.dat.zst
+*.dat.gz
+*.incomplete
+SHA256SUMS.asc
