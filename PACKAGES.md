@@ -45,3 +45,23 @@ the node. File SHA-256 values here only identify the published bytes.
 | `dumped` | 2026-08-20, `dumptxoutset rollback=4859037` (ibd-testnet tip ~4860418) |
 | `file_uncompressed` | `ltc-testnet-4859037.dat` — 397 MiB (416310767 bytes) — `0365faf8caf7bbfb4ab163b2458fb8d26463d6b5a3f5aa3e9f70bf663dbf532d` |
 | `file_compressed` | `ltc-testnet-4859037.dat.zst` — 255 MiB (267855219 bytes) — `c3949e721e993c1440eca6b9ce4bf645b9d33efc75d78cf938be744c165e0f94` |
+
+## Mainnet — height 3162513
+
+| Field | Value |
+|-------|--------|
+| `network` | mainnet |
+| `height` | 3162513 |
+| `blockhash` | `3a4cde5b9a27a9ff52bcc11f7d44ce9fd8b7c9195bebc1900257d26c8e0d6317` |
+| `txoutset_hash` | `c0086464cb25b80b37623caf1db180e4a7181b923aba07d2b0ef82a07b771d05` |
+| `mweb_hash` | `af3ca44c9857587e6af082d0f1b1b04eb3571da345697e2ca05a7d9a8f2d9464` |
+| `nchaintx` | 410386347 |
+| `coins_written` | 53828449 |
+| `mweb_coins_written` | 53554 |
+| `mweb_leafdb_entries_written` | 53554 |
+| `mweb_o_dat_bytes` | 22651232 |
+| `mweb_leaf_dat_bytes` | 44291 |
+| `mweb_prun_dat_bytes` | 0 |
+| `dumped` | 2026-08-20, `dumptxoutset rollback=3162513` (ibd-mainnet tip 3163087) |
+| `file_uncompressed` | `ltc-mainnet-3162513.dat` — 2.40 GiB (2580475057 bytes) — `9c1e295d1849bb808b39ce92b8622d49cc3ab6eb3fc4685252dbd41c6af3b12e` |
+| `file_compressed` | `ltc-mainnet-3162513.dat.zst` — 1.57 GiB (1686650672 bytes) — `70bc740f8880b95025edfeb714d28825775d1467db9bf7a0a51fd578223848d4` |
